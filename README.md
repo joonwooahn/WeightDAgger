@@ -1,7 +1,7 @@
 # Weight-DAgger
 
 ## Requirements
-  tensorflow_gpu 1.1 or more
+    Keras (2.2.4) or more
   
   numpy
   
