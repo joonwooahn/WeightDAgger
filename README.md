@@ -23,7 +23,7 @@ pyparsing (2.0.3)
 
 scikit-image (0.10.1)
 
-NVIDIA-SMI 430.64       Driver Version: 430.64       CUDA Version: 10.0   CUDNN 7.6.5
+NVIDIA-SMI 430.64 \ Driver Version: 430.64  \ CUDA Version: 10.0  \ CUDNN 7.6.5
 
 
 
@@ -55,7 +55,7 @@ $ ./carla $ python3 carla_control_loop.py -- start 1 (or 2)
 
 The vehicle starts at the pose of Start1 or Start2.
 
-- 
+ \\
 
 First, you have to run the 1. Behavior Cloning section.
 
@@ -67,7 +67,7 @@ Using these dataset are used to train the policy. ./weight_DAgger $ python3 trai
 
 The trained policy 'trained_policy.hdf5' is saved at './RUNS/BC/'.
 
-- 
+ \\
 
 After train the policy with Behavior Cloning, DAgger (Dataset Aggregation) is processed.
 
