@@ -171,6 +171,6 @@ if __name__ == '__main__':
     REAL_RANGE = 12.0       
     IMG_X2VEHICLE_X = 0.5   
 
-    print('- Press "s" on the the pygame window, then the vehcile move toward the look-ahead point (red point).')
+    print('- Press "s" on the pygame window, then the vehcile move toward the look-ahead point (red point).')
 
     execute()
