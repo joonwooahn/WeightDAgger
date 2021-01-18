@@ -39,6 +39,7 @@ $ play_carla (cd ./carla/LinuxNoEditor_weight_DAgger_MAP && ./CarlaUE4.sh)
 
 (Ex. alias play_carla='cd && cd ./carla/LinuxNoEditor_WeightDAgger_map && ./CarlaUE4.sh -ResX=300 -ResY=300 -quality-level=low')
 
+ 
 
 First, you have to run the 1. Behavior Cloning section.
 
@@ -50,6 +51,7 @@ Using these dataset are used to train the policy. ./weight_DAgger $ python3 trai
 
 The trained policy 'trained_policy.hdf5' is saved at './RUNS/BC/'.
 
+ 
 
 After train the policy with Behavior Cloning, DAgger (Dataset Aggregation) is processed.
 
@@ -62,8 +64,10 @@ The running method of these are the same as the Behavior Cloning section.
 * In the proposed method 2-2. WeightDAgger, the weight update process have to runned between the process of the data collection and the trainning.
 
 
+ 
 Dataset
 -------
 
+ 
 Trained Policy
 -------
