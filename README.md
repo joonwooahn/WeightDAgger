@@ -23,6 +23,14 @@ pyparsing (2.0.3)
 
 scikit-image (0.10.1)
 
+CARLA Map File
+-------
+
+Move the below downloaded folder 'LinuxNoEditor_WeightDAgger_map' and copy it to the CARLA folder './carla'.
+
+https://drive.google.com/file/d/1ky54cIq4Yyixc7YSP2HO7pmWvNKK9Mvp/view?usp=sharing
+
+
 
 Running
 -------
@@ -33,7 +41,7 @@ To collect the data and play the trained policy, CARAL and ROS have to be runned
 
 $ roscore
 
-$ play_carla (cd ./carla/LinuxNoEditor_weight_DAgger_MAP && ./CarlaUE4.sh) 
+$ play_carla (cd ./carla/LinuxNoEditor_WeightDAgger_map && ./CarlaUE4.sh) 
 
 (If this command is typed at the 'bashrc', you can command it eaisly trun on the CARLA simulator.)
 
