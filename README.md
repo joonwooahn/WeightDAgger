@@ -23,6 +23,10 @@ pyparsing (2.0.3)
 
 scikit-image (0.10.1)
 
+NVIDIA-SMI 430.64       Driver Version: 430.64       CUDA Version: 10.0   CUDNN 7.6.5
+
+
+
 CARLA Map File
 -------
 
@@ -77,9 +81,17 @@ The running method of these are the same as the Behavior Cloning section.
 
 
  
-Dataset
+Data
 -------
 
- 
-Trained Policy
--------
+* Collected Dataset
+
+https://drive.google.com/file/d/1XHHsMyF716YuLqVYTLVyRp9HME9FU53Y/view?usp=sharing
+
+-
+
+* Trained Policies
+
+https://drive.google.com/file/d/1R-IW9IbSOUX3dLnpy5sjr_0AWTgOUfZW/view?usp=sharing
+
+
