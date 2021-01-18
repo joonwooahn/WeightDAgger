@@ -1,4 +1,5 @@
-# Weight-DAgger
+# Weight-DAgger: Reduce DAgger Iteration By Using Action Discrepancy As Weight in Training
+Repository to store imitation learning that runs on CARLA simulator.
 
 Requirements
 -------
@@ -12,7 +13,7 @@ scipy (1.2.0)
 
 python 2, 3 (3.5 < )
   
-carla 0.9.7
+CARLA 0.9.7
 
 ros (kinetic)  
 
