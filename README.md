@@ -22,3 +22,6 @@ opencv-python (4.2.0.32)
 pyparsing (2.0.3)
 
 scikit-image (0.10.1)
+
+
+![system](https://user-images.githubusercontent.com/35481431/104888412-0fda1a00-59b0-11eb-90ae-de4227489d4b.png)
