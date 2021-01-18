@@ -27,7 +27,7 @@ scikit-image (0.10.1)
 Running
 -------
 
-![system](https://user-images.githubusercontent.com/35481431/104888412-0fda1a00-59b0-11eb-90ae-de4227489d4b.png)
+![system](https://user-images.githubusercontent.com/35481431/104890394-d9ea6500-59b2-11eb-9ada-99b4cf62af99.png)
 
 To collect the data and play the trained policy, CARAL and ROS have to be runned.
 
