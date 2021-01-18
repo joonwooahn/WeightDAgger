@@ -81,16 +81,13 @@ The running method of these are the same as the Behavior Cloning section.
 
 
  
-Data
+Collected Dataset
 -------
-
-* Collected Dataset
 
 https://drive.google.com/file/d/1XHHsMyF716YuLqVYTLVyRp9HME9FU53Y/view?usp=sharing
 
--
-
-* Trained Policies
+Trained Policy
+-------
 
 https://drive.google.com/file/d/1R-IW9IbSOUX3dLnpy5sjr_0AWTgOUfZW/view?usp=sharing
 
